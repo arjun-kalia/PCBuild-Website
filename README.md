@@ -1,2 +1,19 @@
-# PCBuild-Website
-This project is a web application that guides users through the process of building their own PC. It provides a step-by-step interface with detailed information about components, compatibility, and pricing.
+PCBuild
+Welcome to PCBuild, your ultimate guide to building your own PC! This project provides step-by-step instructions, component recommendations, and budget-friendly PC builds to help you get started with building your dream computer.
+
+* Getting Started
+Follow these simple steps to access and explore the PCBuild website:
+
+* How to View the Website
+You can view the live version of this website hosted on GitHub Pages by clicking the link below:
+
+https://arjun-kalia.github.io/PCBuild-Website/
+
+Project Structure
+* index.html - The homepage of the website.
+* Tutorial.html - Step-by-step tutorials on building a PC.
+* Shop.html - Recommended components and links to purchase.
+* About.html - Information about the project and its creators.
+* References.html - Additional resources and references.
+* style.css - CSS file for styling the website.
+* Images/ - Folder containing images used throughout the website.
