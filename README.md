@@ -1,7 +1,9 @@
 PCBuild
+
 Welcome to PCBuild, your ultimate guide to building your own PC! This project provides step-by-step instructions, component recommendations, and budget-friendly PC builds to help you get started with building your dream computer.
 
 * Getting Started
+  
 Follow these simple steps to access and explore the PCBuild website:
 
 * How to View the Website
