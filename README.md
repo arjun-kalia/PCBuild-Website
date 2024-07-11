@@ -2,14 +2,11 @@ PCBuild
 
 Welcome to PCBuild, your ultimate guide to building your own PC! This project provides step-by-step instructions, component recommendations, and budget-friendly PC builds to help you get started with building your dream computer.
 
-* Getting Started
-  
-Follow these simple steps to access and explore the PCBuild website:
-
 * How to View the Website
+
 You can view the live version of this website hosted on GitHub Pages by clicking the link below:
 
-https://arjun-kalia.github.io/PCBuild-Website/
+Website Link: https://arjun-kalia.github.io/PCBuild-Website/
 
 Project Structure
 * index.html - The homepage of the website.
